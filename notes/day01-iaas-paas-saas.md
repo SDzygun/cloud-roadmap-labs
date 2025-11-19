@@ -67,12 +67,12 @@ Each offers different balances of control, flexibility, and simplicity for busin
 
 ## Model Differences
 
-|           | IaaS            | PaaS                 | SaaS                       |
-|-----------|-----------------|----------------------|----------------------------|
-| Control   | Most            | Medium               | Least                      |
-| Responsibility | User (OS, apps, data) | Mix (user: app/data) | Provider (all layers)     |
-| Setup     | Customizable    | Streamlined dev      | No setup                   |
-| Updates   | Manual/auto     | Provider for platform| Provider for everything    |
+|           | IaaS              | PaaS                 | SaaS                       |
+|-----------|-------------------|----------------------|----------------------------|
+| Control   | Most              | Medium               | Least                      |
+| Responsib | User(OS,apps,data)| Mix (user: app/data) | Provider (all layers)     |
+| Setup     | Customizable      | Streamlined dev      | No setup                   |
+| Updates   | Manual/auto       | Provider for platform| Provider for everything    |
 
 ---
 
